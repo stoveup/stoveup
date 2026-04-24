@@ -5,7 +5,7 @@ Currently enrolled in BoS in Computer Science @ UWA.
 I like to mess about and code random stuff that just appears in my brain. 
 
 - 🔭 I’m currently working on **deFeeter** and uni projects!
-- 🌱 I’m currently learning how to be super awesome!
+- 🌱 I’m currently learning OpenGL! (Much fun)
 - 😄 Pronouns: She/Her
 <!--
 **stoveup/stoveup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
