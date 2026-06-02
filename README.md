@@ -1,12 +1,10 @@
-## Hey there! 👋 
+**Computer Science Undergrad' @ University of Western Australia**
+- Currently working on CASync
+- Python, Java, C/C++, OpenGL, HTML/CSS/Javascript, Flask, SQL (SQLite and SQLAlchemy)
 
-Currently enrolled in BoS in Computer Science @ UWA.
+For enquiries, please reach me via. <`insert contact here`>
 
-I like to mess about and code random stuff that just appears in my brain. 
-
-- 🔭 I’m currently working on **deFeeter** and uni projects!
-- 🌱 I’m currently learning OpenGL! (Much fun)
-- 😄 Pronouns: She/Her
+*(Currently obsessed over Minecraft and video games right now... 🥲)*
 <!--
 **stoveup/stoveup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
