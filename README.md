@@ -2,9 +2,6 @@
 - Currently working on CASync
 - Python, Java, C/C++, OpenGL, HTML/CSS/Javascript, Flask, SQL (SQLite and SQLAlchemy)
 
-For enquiries, please reach me via. <`insert contact here`>
-
-*(Currently obsessed over Minecraft and video games right now... 🥲)*
 <!--
 **stoveup/stoveup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
